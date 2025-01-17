@@ -13,3 +13,5 @@ spring:
     streams:
       bootstrap-server: localhost:9092
       application-id: greeting-kafka-streams
+
+
